@@ -1,0 +1,17 @@
+names:
+- '10'
+- '100'
+- '25'
+- '5'
+- '50'
+- finger
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: brazilian-coins-djfha
+  url: https://universe.roboflow.com/brazilian-coin/brazilian-coins-djfha/dataset/3
+  version: 3
+  workspace: brazilian-coin
+test: ../test/images
+train: ../train/images
+val: ../valid/images
